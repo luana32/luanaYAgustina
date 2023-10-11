@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "marca": "Olmo",
+        "modelo":"Regal",
+        "rodado": 29,
+        "anio": 2022,
+        "color": "roja",
+        "peso": 16,
+        "tipo": "Montañera",
+        "precio": 120000,
+        "vendida": "si"
+    },
+    {
+        "id":2,
+        "marca": "Batte",
+        "modelo":"Sunshine",
+        "rodado": 28,
+        "anio": 2021,
+        "color": "negro",
+        "peso": 17,
+        "tipo": "Retro",
+        "precio": 148000,
+        "vendida": "no"
+    },
+    {
+        "id":3,
+        "marca": "TopMega",
+        "modelo":"Ruta",
+        "rodado": 29,
+        "anio": 2023,
+        "color": "Naranja",
+        "peso": 17,
+        "tipo": "Paseo",
+        "precio": 100000,
+        "vendida": "si"
+    }
+]

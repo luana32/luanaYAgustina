@@ -1,0 +1,38 @@
+[
+    {   
+        "id":1,
+        "marca":"fierce",
+        "modelo":"FM18F29AM210",
+        "rodado":16,
+        "año de fabricación":2019,
+        "color":"celeste",
+        "peso en kilogramos":13,
+        "tipo": "montañera",
+        "precio":20000,
+        "vendida":"no"
+    },
+    {
+        "id":2,
+        "marca":"SPL",
+        "modelo":"regal",
+        "rodado":26,
+        "año de fabricación":2022,
+        "color":"amarillo",
+        "peso en kilogramos":15,
+        "tipo": "retro",
+        "precio":40000,
+        "vendida":"no"
+    },
+    {
+        "id":3,
+        "marca":"fixie",
+        "modelo":"sunshine",
+        "rodado":29,
+        "año de fabricación":2020,
+        "color":"rojo",
+        "peso en kilogramos":17,
+        "tipo": "paseo",
+        "precio":10000,
+        "vendida":"si"
+    }
+]
